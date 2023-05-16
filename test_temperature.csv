@@ -1,4 +1,4 @@
-﻿Time;CO2 ();P_1 ();P_2 ();T_cip;T_securite ();arret ();cause_arret ();consigne_CO2 ();debit ();envoie_mail ();etape ();oxygene ();ph_carte ')
+﻿Time;CO2 ();P_1 ();P_2 ();T_cip;T_securite ();arret ();cause_arret ();consigne_CO2 ();debit ();envoie_mail ();etape ();oxygene ();ph_carte ()
 2023-05-16 09:41:13;1137;318;-25;189;181;0;2;1100;1720;0;110;129;478
 2023-05-16 09:41:43;1252;442;-215;189;181;0;2;1100;4200;0;110;132;478
 2023-05-16 09:42:13;1141;452;-231;189;181;0;2;1100;4182;0;110;131;478
